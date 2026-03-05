@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>ATIVIDADE 04</title>
+    </head>
+    
+<body  style="background-color:black">
+    
+    <h1 color="white" align="center">Tabuleiro de Xadrez</h1>
+    
+    <table  border="5" cellspacing="5" align="center" bgcolor="white">
+        <tr>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+        </tr>
+        <tr>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+        </tr>
+        <tr>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+        </tr>
+        <tr>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+        </tr>
+        <tr>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+        </tr>
+        <tr>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+        </tr>
+        <tr>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+        </tr>
+        <tr>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+            <td bgcolor="white" height="80" width="80"></td>
+            <td bgcolor="black" height="80" width="80"></td>
+        </tr>
+    </table>
+</body>
+</html>
