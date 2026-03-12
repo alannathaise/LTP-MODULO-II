@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Aula 03 - HTML</title>
+  </head>
+  <body>
+    <table border="1" align="center">
+        <tr>
+            <td bgcolor="#B0C4DE">Linha 1; Coluna 1</td>
+            <td bgcolor="#778899">Linha 1; Coluna 2</td>
+            <td bgcolor="#708090">Linha 1; Coluna 3</td>
+          </tr
+        <tr>
+            <td bgcolor="#836FFF">Linha 1; Coluna 1</td>
+            <td bgcolor="#6A5ACD">Linha 1; Coluna 2</td>
+            <td bgcolor="#483D8B">Linha 1; Coluna 3</td>
+          </tr>
+          <tr>
+            <td bgcolor="#DDA0DD">Linha 1; Coluna 1</td>
+            <td bgcolor="#EE82EE">Linha 1; Coluna 2</td>
+            <td bgcolor="#DA70D6">Linha 1; Coluna 3</td>
+          </tr
+          
+    </table>
+  </body>
+</html>
+
+    
+        
+
+    
