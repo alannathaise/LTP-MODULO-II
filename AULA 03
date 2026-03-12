@@ -1,0 +1,69 @@
+<!-- ESCOLA TÉCNICA DE CEILÂNDIA-->
+<!-- CURSO TÉCNICO DE CEILÂNDIA-->
+<!-- LINGUAGEM E TÉCNICAS DE PROGRAMAÇÃO II-->
+<!-- GIOVANNA DIAS SOUSA - TURMA G NOTURNO -->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Aula 03 - HTML</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <ul type="disc">
+            <li>Ítem 1</li>
+            <li>Ítem 2</li>
+            <li>Ítem 3</li>
+        </ul>
+        <ul type="square">
+            <li>Ítem 1</li>
+            <li>Ítem 2</li>
+            <li>Ítem 3</li>
+        </ul>
+        <ul type="circle">
+            <li>Ítem 1</li>
+            <li>Ítem 2</li>
+            <li>Ítem 3</li>
+        </ul>
+        <ol type="A">
+            <li>Ítem 1</li>
+            <li>Ítem 2</li>
+            <li>Ítem 3</li>
+        </ol>
+        <ol type="a">
+            <li>Ítem 1</li>
+            <li>Ítem 2</li>
+            <li>Ítem 3</li>
+        </ol>
+        <ol type="I">
+            <li>Ítem 1</li>
+            <li>Ítem 2</li>
+            <li>Ítem 3</li>
+        </ol>
+        <ol type="i">
+            <li>Ítem 1</li>
+            <li>Ítem 2</li>
+            <li>Ítem 3</li>
+        </ol>
+        <ol type="1">
+            <li>Ítem 1</li>
+            <li>Ítem 2</li>
+            <li>Ítem 3</li>
+        </ol>
+         <ol>
+            <li>Ítem 1</li>
+            <li>Ítem 2</li>
+            <li>Ítem 3</li>
+        </ol>
+        <dl>
+            <dt>HTML5</dt>
+            <dd>Linguagem de marcação de hipertexto</dd>
+            <dt>PHP</dt>
+            <dd>Linguagem para desenvolvimento de aplicações Web</dd>
+            <dt>CSS3</dt>
+            <dd>Linguagem de folhas de estilo em cascata</dd>
+            <dt>MySQL</dt>
+            <dd>Linguagem estruturada para base de dados</dd>
+        </dl>
+    </body>
+</html>
