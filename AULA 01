@@ -1,1 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Meu primeiro site</title>
+    </head>
+    <body>
+        <p>Olá, mundo!</p>
+        <hr
+        <h1>Título do tamanho H1</h1>
+        <h2>Título do tamanho H2</h2>
+        <h3>Título do tamanho H3</h3>
+        <h4>Título do tamanho H4</h4>
+        <h5>Título do tamanho H5</h5>
+        <h6>Título do tamanho H6</h6>
 
+    </body>
+</html>
