@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+<meta charset="UTF-8">
+<title>Formulário Completo</title>
+
+<style>
+
+body{
+    background-color:#e6f0fa;
+    font-family:Arial;
+}
+
+.container{
+    background-color:#cfe2f3;
+    width:600px;
+    margin:auto;
+    padding:20px;
+    border-radius:10px;
+}
+
+form{
+    background-color:#ffffff;
+    padding:20px;
+    border-radius:10px;
+}
+
+label{
+    display:block;
+    margin-top:10px;
+}
+
+input, select, textarea{
+    width:100%;
+    padding:6px;
+    margin-top:5px;
+}
+
+button{
+    margin-top:15px;
+    padding:10px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<form action="#" method="post">
+
+<!-- Dados Pessoais -->
+
+<fieldset>
+<legend>Dados Pessoais</legend>
+
+<label for="nome">Nome</label>
+<input type="text" id="nome" name="nome">
+
+<label for="email">Email</label>
+<input type="email" id="email" name="email">
+
+<label for="senha">Senha</label>
+<input type="password" id="senha" name="senha">
+
+<label for="idade">Idade</label>
+<input type="number" id="idade" name="idade">
+
+<label for="data">Data de Nascimento</label>
+<input type="date" id="data" name="data">
+
+</fieldset>
+
+<br>
+
+<!-- Preferências -->
+
+<fieldset>
+<legend>Preferências</legend>
+
+<label>Gênero</label>
+
+<input type="radio" name="genero" value="masculino"> Masculino
+<input type="radio" name="genero" value="feminino"> Feminino
+
+<br><br>
+
+<label>Interesses</label>
+
+<input type="checkbox" name="interesse" value="tecnologia"> Tecnologia
+<input type="checkbox" name="interesse" value="programacao"> Programação
+<input type="checkbox" name="interesse" value="design"> Design
+
+<br><br>
+
+<label>Estado</label>
+
+<select name="estado">
+<option>São Paulo</option>
+<option>Rio de Janeiro</option>
+<option>Minas Gerais</option>
+<option>Paraná</option>
+</select>
+
+<br><br>
+
+<label>Mensagem</label>
+<textarea rows="4"></textarea>
+
+</fieldset>
+
+<br>
+
+<!-- Outros Campos -->
+
+<fieldset>
+<legend>Outros Dados</legend>
+
+<label>Escolha uma cor</label>
+<input type="color">
+
+<label>Envie um arquivo</label>
+<input type="file">
+
+<label>Nível de satisfação</label>
+<input type="range" min="0" max="10">
+
+<input type="hidden" value="formularioHTML">
+
+</fieldset>
+
+<br>
+
+<input type="submit" value="Enviar">
+<input type="reset" value="Limpar">
+
+</form>
+
+</div>
+
+</body>
+</html>
