@@ -5,21 +5,22 @@
     <title>Aula 03 - HTML</title>
   </head>
   <body>
+      <P align="center">TABELA</P>
     <table border="1" align="center">
         <tr>
-            <td bgcolor="#B0C4DE">Linha 1; Coluna 1</td>
-            <td bgcolor="#778899">Linha 1; Coluna 2</td>
-            <td bgcolor="#708090">Linha 1; Coluna 3</td>
+            <td bgcolor="#CBECDA">Linha 1; Coluna 1</td>
+            <td bgcolor="#A9E0C3">Linha 1; Coluna 2</td>
+            <td bgcolor="#8ED6AF">Linha 1; Coluna 3</td>
           </tr
         <tr>
-            <td bgcolor="#836FFF">Linha 1; Coluna 1</td>
-            <td bgcolor="#6A5ACD">Linha 1; Coluna 2</td>
-            <td bgcolor="#483D8B">Linha 1; Coluna 3</td>
+            <td bgcolor="#DACBEC">Linha 1; Coluna 1</td>
+            <td bgcolor="#C3A9E0">Linha 1; Coluna 2</td>
+            <td bgcolor="#B08ED6">Linha 1; Coluna 3</td>
           </tr>
           <tr>
-            <td bgcolor="#DDA0DD">Linha 1; Coluna 1</td>
-            <td bgcolor="#EE82EE">Linha 1; Coluna 2</td>
-            <td bgcolor="#DA70D6">Linha 1; Coluna 3</td>
+            <td bgcolor="#ECDACB">Linha 1; Coluna 1</td>
+            <td bgcolor="#E0C3A9">Linha 1; Coluna 2</td>
+            <td bgcolor="#D6B08E">Linha 1; Coluna 3</td>
           </tr
           
     </table>
