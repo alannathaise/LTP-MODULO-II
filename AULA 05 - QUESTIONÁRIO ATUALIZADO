@@ -1,0 +1,29 @@
+<!-- ESCOLA TÉCNICA DE CEILÂNDIA-->
+<!-- CURSO TÉCNICO DE CEILÂNDIA-->
+<!-- LINGUAGEM E TÉCNICAS DE PROGRAMAÇÃO II-->
+<!-- ALANNA THAISE ARAUJO DA SILVA - TURMA H1 NOTURNO -->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Formulário</title>
+</head>
+
+<body>
+    <h2>ENVIAR DADOS</h2>
+    <form action="receba.php" method="post">
+        
+        <label>Nome:</label>
+        <input type="text" name="Nome" required>
+        
+        <label>Número:</label>
+        <input type="number" name="numero" required>
+        
+        <input type="submit" value="Enviar">
+        
+    </form>
+</body>
+
+</html>
