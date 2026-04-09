@@ -12,8 +12,8 @@
         <button type="submit">RESPONDER</button><br><br>
     </form>
     <?php
-    $nome = $_POST['nome' ?? '']
+    $nome = $_POST['nome']?? '';
 
-    echo "<h2>Olá, $nome</h2>"
+    echo "<h2>Olá, $nome</h2>";
     ?>
 </body>
