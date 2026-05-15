@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicio 03</title>
+</head>
+<body>
+    <h3>Contador de pares</h3>
+
+    <form method="POST">
+        <Label>Primeiro numero</Label><br>
+        <input type="number" name="num1" require/><br>
+        <Label>Segundo Numero</Label><br>
+        <input type="number" name="num2" require/><br>
+        <input type="submit" value="Calcular"/>
+    </form>
+
+    <?php
+    if (-SERVER["REQUEST_METHOD"] == "POST") {
+        $num1 = $POST["num1"];
+        $num2 = $POST["num"];
+
+        if ($num1 > $num2){
+            echo "PRIMEIRO N° MAIOR DO QUE O SEGUNDO.";
+        } else {
+            $contador = 0;
+            $i = $num;
+            while ($i<= $num2) {
+                if($i %2 == 0) {
+                    $contador++$;
+                    echo "$i <br>";
+                }
+               $i++;
+         }
+         echo "<h3>RESULTADO</h3><br>";
+         echo "EXISTEM $contador numeros pares entre $num1 e $num2";
+     }
+                
+    }
+    ?>
+</body>
+</html>
