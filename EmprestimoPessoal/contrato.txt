@@ -1,0 +1,13 @@
+CONTRATO PARTICULAR DE EMPRÉSTIMO PESSOAL 
+Pelo presente contrato particular de empréstimo de dinheiro ao senhor NOME domiciliado à ENDERECO na cidade de CIDADE - ESTADO, portado da Carteira de Identidade número RG, Cadastro de Pessoa Física (CPF) de número CPF, nascido em DATA,  filho de MAE e de PAI têm justo e contratado o seguinte:
+CLÁUSULA 1ª - O BANCO dá como empréstimo ao CLIENTE, mediante garantia de execução da dívida perante a justiça e devidos cartórios locais para registros dos dividendos.
+CLÁUSULA 2ª - Na falta do pagamento do empréstimo na data aprazada, o DEVEDOR pagará uma multa no percentual de 5% mais juro moratório sobre o débito no percentual de 3,5%, por dia, acrescido de correção monetária sobre o montante apurado, ficando o CREDOR com direito de tomar posse do imóvel hipotecado, administrando-o com amplos poderes, recebendo os aluguéis, dando recibos e utilizando os valores dos aluguéis na amortização do débito até completo pagamento da dívida.
+CLÁUSULA 3ª - Todos os encargos que venham a recair durante o período da posse pelo CREDOR, sobre o referido imóvel, continuarão de responsabilidade do DEVEDOR, devendo ser acrescidos na dívida.
+CLÁUSULA 4ª – O CLIENTE acordou em receber qualquer comunicado de conta em atraso pelos números de Telefone Residencial TELEFONE e celular CELULAR, bem como através de aplicativos de mensagem (SMS ou WhatsApp).
+CLÁUSULA 6ª – O CLIENTE também informou o endereço de correio eletrônico EMAIL para recebimento dos boletos de pagamento, pelo menos, sete dias úteis antes da data do vencimento.
+CLÁUSULA 8ª – O valor aprovado é de R$ VALOR SOLICITADO dividido em PARCELAS percelas de VALOR PARCELAS a vencer no quinto dia útil de cada mês.
+CLÁUSULA 7ª – Fica eleito o foro desta cidade de, Ceilândia - DF, para dirimir qualquer dúvida referente a este contrato.
+E assim, por estarem plenamente contratados na forma acima, assinam o presente contrato na presença de testemunhas que a tudo assistiram e conhecimento tiveram e em duas vias de igual teor.
+ Ceilândia, DATA(php)
+______________________________
+NOME

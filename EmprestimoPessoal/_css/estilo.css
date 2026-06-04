@@ -1,0 +1,56 @@
+body{
+    background: url("../img/fundo.png") no-repeat top center fixed;
+    background-size: cover;
+}
+div{
+    background-color: #82ccdd;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #212121;
+    width: 900px;
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.9;
+}
+.h2{
+    color:#000000;
+    font-family: Arial Narrow, sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+}
+.h3{
+    color:#000000;
+    font-family: Arial Narrow, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+}
+p{
+    color:#353b48;
+    font-family: "Arial Narrow";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: justify;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+input{
+    border-radius: 20px;
+}
+select{
+    border-radius: 20px;
+}
+.botao{
+    width: 100px;
+    height: 25px;
+    border-radius: 20px;
+}
+img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
